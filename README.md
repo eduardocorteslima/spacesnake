@@ -1,2 +1,0 @@
-# spacesnake
-SpaceSnake repository
