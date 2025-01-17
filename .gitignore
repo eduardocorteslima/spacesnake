@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.swp
+
+# Diretórios de build
+build/
+dist/
+out/
+target/
