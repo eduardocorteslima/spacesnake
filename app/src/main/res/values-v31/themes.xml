@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.New" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Cor de fundo da splash screen -->
+        <item name="android:windowBackground">@color/splash_background</item>
+        <!-- Ícone no centro da splash screen -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="android:windowSplashScreenAnimationDuration">10000</item>
+
+    </style>
+</resources>
